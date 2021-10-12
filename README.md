@@ -1,6 +1,4 @@
-# WindowsTools
-
-# CLI - Tools
+# GUI - Tools
 ## Register-editor
 - Locatie:   'C:\Windows\regedit.exe'
 - doel: BewerkingsEditor
@@ -23,3 +21,11 @@ https://nl.nex-software.com/wat-regeditexe
 ## Notepad:
 - Locatie: 'C:\Windows\notepad.exe'
 - Doel: TekstEditor
+- 
+# CLI - Tools
+
+
+# tools
+- ipconfig
+- ping 
+- nslookup
