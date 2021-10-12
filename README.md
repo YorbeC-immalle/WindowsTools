@@ -32,6 +32,27 @@ Uitleg over notepad
 http://www.websitesmetstijl.nl/naslag/notepad.html
 # CLI - Tools
 
-- ipconfig
-- ping 
-- nslookup
+## ping 8.8.8.8
+- Command Line: ping 8.8.8.8
+Deze ping tool maakt gebruik van ICMP packtes om te controleren of de remote host toegankelijk is.
+
+## ipconfig 
+- Command Line: ipconfig
+
+Dit biedt alle informatie over de netwerkverbinding voor de computer.
+
+## nslookup
+- Command Line: nslookup
+
+nslookup is een opdrachtregelprogramma voor netwerkbeheer voor het opvragen van het Domain Name System (DNS) om de toewijzing tussen domeinnaam en IP-adres of andere DNS-records te verkrijgen.
+
+## time
+- Command Line: time
+
+het commando time geeft de exacte tijd 
+
+## move
+- Command Line: move           
+
+Moves one or more files from one directory to another
+               directory.
