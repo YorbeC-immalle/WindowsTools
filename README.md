@@ -22,10 +22,14 @@ https://support.microsoft.com/nl-nl/windows/het-schermtoetsenbord-osk-gebruiken-
 - Locatie: ´C:\Windows\write.exe´
 - Doel: TekstEditor
 
+Uitleg over write
+https://support.microsoft.com/nl-nl/office/nieuwe-stijlen-aanpassen-of-maken-d38d6e47-f6fc-48eb-a607-1eb120dec563
 ## Notepad:
 - Locatie: ´C:\Windows\notepad.exe´
 - Doel: TekstEditor
-- 
+
+Uitleg over notepad
+http://www.websitesmetstijl.nl/naslag/notepad.html
 # CLI - Tools
 
 - ipconfig
