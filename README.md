@@ -1,6 +1,6 @@
 # GUI - Tools
 ## Register-editor
-- Locatie: 'C:\Windows\winhlp32.exe'
+- Locatie: "C:\Windows\winhlp32.exe"
 - doel: BewerkingsEditor
 
 Uitleg over de Register
